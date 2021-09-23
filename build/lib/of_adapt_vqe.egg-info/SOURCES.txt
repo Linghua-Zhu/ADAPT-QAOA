@@ -1,0 +1,12 @@
+setup.py
+src/__init__.py
+src/operator_pools.py
+src/qaoa_methods.py
+src/setup.py
+src/tVQE.py
+src/vqe_methods.py
+src/of_adapt_vqe.egg-info/PKG-INFO
+src/of_adapt_vqe.egg-info/SOURCES.txt
+src/of_adapt_vqe.egg-info/dependency_links.txt
+src/of_adapt_vqe.egg-info/requires.txt
+src/of_adapt_vqe.egg-info/top_level.txt

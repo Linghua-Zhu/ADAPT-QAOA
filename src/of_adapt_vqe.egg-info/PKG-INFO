@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: of-adapt-vqe
+Version: 0
+Summary: Run ADAPT-VQE with Psi4 and Openfermion
+Home-page: https://github.com/hrgrimsl/OF_VQE.git
+Author: Harper R. Grimsley, Nick Mayhall
+Author-email: hrgrimsl@vt.edu
+License: Apache 2
+Description: UNKNOWN
+Platform: UNKNOWN
