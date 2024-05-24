@@ -5,7 +5,7 @@ The fixed form of the original QAOA ansatz is not optimal, thus we developed an 
 --> The mixer operator, which unlike the original QAOA here could be an entangling gate, is dictated by the problem Hamiltonian. 
 --> We showed that our algorithm, ADAPT-QAOA, performed better than the original QAOA (we tested on Maxcut problem).
 
-Read More about the ADAPT-QAOA work: https://arxiv.org/abs/2005.10258
+Read More about the ADAPT-QAOA work: Phys. Rev. Research 4, 033029
 
 # Quantum Entanglement in ADAPT-QAOA
 
